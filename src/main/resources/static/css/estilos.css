@@ -1,0 +1,38 @@
+body{
+    
+    background-image: url('../img/fondo2.jpg');
+
+}
+
+
+h2{
+    background-color: #66ff66;
+    color:black
+}
+
+h3 {
+    text-align: center;
+    background-color: #ccccff;
+    color:black
+
+}
+
+p{  
+   
+    font-family: sans-serif;
+    text-align: justify;
+    
+
+}
+
+p span{
+    color: blue;
+}
+
+li{
+    
+    font-family: sans-serif;
+    background-color: #ccffff;
+}
+
+
